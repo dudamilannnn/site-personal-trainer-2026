@@ -7,7 +7,7 @@ O site foi desenvolvido como um projeto de portfólio para praticar a construç�
 
 ## Preview
 ![Preview do projeto](assets/img/preview.png)
--- ou -- [Ver projeto ao vivo](https://seulink.github.io/nome-do-projeto)
+-- ou -- [Ver projeto ao vivo](https://dudamilannnn.github.io/site-personal-trainer-2026/)
 
 ## Tecnologias utilizadas
 - HTML5
