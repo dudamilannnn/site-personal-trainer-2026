@@ -52,7 +52,7 @@ Também aprofundei conhecimentos em:
 ## Como rodar localmente
 1. Clone o respositório
 ```bash
-git clone https://github.com/seuusuario/nome-do-projeto
+git clone https://github.com/dudamilannnn/site-personal-trainer-2026
 ```
 2. Abra o arquivo index.html no navegador
 
